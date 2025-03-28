@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Engenheiro de Software há 4 anos. Atualmente faço parte do time Itaú Unibanco.
+Engenheiro de Software há 5 anos. Atualmente faço parte do time Itaú Unibanco.
 
 Gosto de aprender e progredir com desafios, minha expertise inclui AWS (SQS, ECS, EC2, Lambdas, S3, SNS, API Gateway, RDS, etc), Java, Python, Terraform, Open API, DDD, SOLID. Meus conhecimentos me garantiram a certificação AWS Cloud Practitioner e continuo em busca das outras badges fornecidos pela AWS e outras clouds públicas.
 
